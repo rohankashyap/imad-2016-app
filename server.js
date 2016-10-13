@@ -60,7 +60,8 @@ var htmlTemplate =`
         </div>
         <hr/>
         <div>
-        ${date}
+        <h2>${date}
+        </h2>
         </div>
         <div>
         ${content}
