@@ -56,7 +56,7 @@ var htmlTemplate =`
     <body>
         <div class="container">
         <div>
-            <a href='/'>go to home page</a>
+            <a href='/'>Go to home page</a>
         </div>
         <hr/>
         <div>
